@@ -18,6 +18,20 @@
         out.println(msg);
     }
 %>
+    <form action="login">
+        <table>
+            <tr>
+                <td>
+                    用户名:<input type="text" name="username"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    密码:<input type="password" name="password"/>
+                </td>
+            </tr>
+        </table>
+    </form>
 
 </body>
 </html>

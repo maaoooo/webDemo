@@ -6,6 +6,7 @@ import java.io.IOException;
 
 public class registerServlet extends javax.servlet.http.HttpServlet {
     protected void doPost(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
+        request.setCharacterEncoding("utf-8");
         String username=request.getParameter("username");
         String password=request.getParameter("password");
         UserService userService=new UserService();

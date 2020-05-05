@@ -11,7 +11,7 @@ public class DBUtil {
     public static Connection getConnection(){
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            return DriverManager.getConnection("jdbc:mysql://localhost:3306/webtest?userUnicode=true&charachterEncoding=UTF8","root","root");
+            return DriverManager.getConnection("jdbc:mysql://localhost:3306/webtest?userUnicode=true&characterEncoding=UTF-8","root","root");
         } catch (Exception e) {
             e.printStackTrace();
         }return null;
