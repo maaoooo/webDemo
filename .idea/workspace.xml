@@ -7,34 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08031cff-cbb7-4475-b838-5f4f5d33a790" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maaoooo/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maaoooo/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maaoooo/controllor/registerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maaoooo/controllor/registerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/maaoooo/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/maaoooo/util/DBUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/META-INF/WebTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/com/maaoooo/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/com/maaoooo/controllor/registerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/com/maaoooo/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/com/maaoooo/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/classes/com/maaoooo/util/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/lib/mysql-connector-java-5.1.48.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebTest/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/WebTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maaoooo/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maaoooo/controllor/registerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maaoooo/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maaoooo/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/maaoooo/util/DBUtil.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +19,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -294,11 +269,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -328,6 +298,7 @@
       <workItem from="1588603499857" duration="144000" />
       <workItem from="1588603710083" duration="1796000" />
       <workItem from="1588680698079" duration="4025000" />
+      <workItem from="1588755227637" duration="1294000" />
     </task>
     <servers />
   </component>
