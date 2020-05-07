@@ -2,6 +2,7 @@ package com.maaoooo.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
@@ -13,7 +14,7 @@ public class TestFilter implements Filter {
     }
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws ServletException, IOException {
         //过滤客户端发往服务器端的请求
-        req.setCharacterEncoding("utf-8");
+        req.setCharacterEncoding(Encoding);
         chain.doFilter(req, resp);
         //chain后的代码是过滤服务器端发往用户的响应
     }
